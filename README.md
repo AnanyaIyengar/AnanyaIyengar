@@ -14,9 +14,7 @@
 ### About Me :woman_student:	
 :woman_technologist: I am a Master's student in Economics, currently at the Delhi School of Economics, India. Previously, I graduated with an Honours degree in Economics from St. Stephen's College, Delhi.
 
-:bar_chart: I'm currently exploring applications of econometrics to problems of technical progress, studying Causal Inference and delving into dynamic macroeconomic growth models.
-
-:flight_departure: Interested in Pre-Doc/RA opportunities towards the goal of pursuing a PhD in Economics.
+:flight_departure: I'm currently exploring applications of econometrics to problems of technical progress, studying Causal Inference and delving into dynamic macroeconomic growth models.
 
 :stars: In my free time, I enjoy reading, playing around with animation on ManimCE, crocheting and talking about BTS. 
 
