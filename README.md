@@ -12,7 +12,7 @@
 ---
 
 ### About Me :woman_student:	
-:woman_technologist: I am a Master's student in Economics, currently at the Delhi School of Economics, India. Previously, I graduated with an Honours degree in Economics from St. Stephen's College, Delhi.
+:woman_technologist: I am a Master's student in Economics at the Delhi School of Economics, India. Previously, I graduated with an Honours degree in Economics from St. Stephen's College, Delhi in 2021.
 
 :flight_departure: I'm currently exploring applications of econometrics to problems of technical progress, studying Causal Inference and delving into dynamic macroeconomic growth models.
 
