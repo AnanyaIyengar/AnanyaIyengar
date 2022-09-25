@@ -18,6 +18,8 @@
 
 :stars: In my free time, I enjoy reading, playing around with animation on ManimCE, crocheting and talking about BTS. 
 
+:email: Get in touch at ananya.iyengar24@gmail.com!
+
 ---
 
 ### Languages and Tools :hammer_and_wrench:
