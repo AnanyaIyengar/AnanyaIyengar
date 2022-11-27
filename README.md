@@ -16,7 +16,7 @@
 
 :flight_departure: I'm currently exploring applications of econometrics to problems of technical progress, studying Causal Inference and delving into dynamic macroeconomic growth models.
 
-:stars: In my free time, I enjoy reading, playing around with animation on ManimCE, crocheting and talking about BTS. 
+:stars: In my free time, I enjoy reading, playing around with animation on ManimCE, crocheting and creating mood-based playlists. 
 
 :email: Get in touch at ananya.iyengar24@gmail.com!
 
