@@ -14,7 +14,7 @@
 ### About Me :woman_student:	
 :woman_technologist: I am a Research Assistant at the Delhi School of Economics (DSE), India. I completed my Master's degree in Economics from DSE in 2023. Previously, I graduated with an Honours degree in Economics from St. Stephen's College, Delhi in 2021.
 
-:flight_departure: My research interests include macroeconomics of developing countries, issues of measurement, econometrics, and issues regarding gender.
+:flight_departure: My research interests include macroeconomics of developing countries, issues of measurement, issues regarding caste and gender, and econometric methods.
 
 :stars: In my free time, I enjoy reading, poetry, crocheting and creating mood-based playlists. 
 
