@@ -1,4 +1,4 @@
-### Hello!:four_leaf_clover:
+### Hello!
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ananyaiyengar/">
