@@ -12,7 +12,7 @@
 ---
 
 ### About Me :woman_student:	
-:woman_technologist: Interested in development, statistical architecture, measurement and inequality. 
+:woman_technologist: Interested in gender, statistical architecture, measurement, and inequality. 
 
 :email: Get in touch at ananya.iyengar24@gmail.com!
 
